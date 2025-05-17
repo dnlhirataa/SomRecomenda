@@ -1,3 +1,6 @@
+PROJETO REALIZADO DURANTE A IMERSÃO ALURA DE GOOGLE GEMINI! 
+
+
 Descrição dos Problemas que o Projeto Resolve
 Este projeto surge da dificuldade de encontrar a trilha sonora ideal para vídeos (VTs) de forma rápida e eficiente. Os criadores de conteúdo frequentemente enfrentam os seguintes problemas:
 
