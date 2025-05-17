@@ -1,7 +1,5 @@
 PROJETO REALIZADO DURANTE A IMERSÃO ALURA DE GOOGLE GEMINI! 
 
-
-Descrição dos Problemas que o Projeto Resolve
 Este projeto surge da dificuldade de encontrar a trilha sonora ideal para vídeos (VTs) de forma rápida e eficiente. Os criadores de conteúdo frequentemente enfrentam os seguintes problemas:
 
 Sobrecarga de Opções: Plataformas de streaming musical oferecem milhões de faixas, tornando a escolha da música perfeita para um vídeo uma tarefa demorada e exaustiva.
@@ -14,7 +12,7 @@ Ao analisar a descrição textual do vídeo utilizando a inteligência artificia
 
 Além disso, a funcionalidade de refinamento permite ao usuário explorar ainda mais as sugestões por gênero, aprofundando a busca e descobrindo opções que talvez não fossem encontradas por meio de uma pesquisa manual tradicional. A exportação dos resultados em um arquivo TXT facilita o acesso e o compartilhamento das sugestões encontradas.
 
-Como Inicializar o Programa
+cOMO INICIALIZAR O PROGRAMA!
 Para inicializar e utilizar o programa de sugestão musical para vídeos, siga estes passos:
 
 Abrir o Ambiente Colab: Acesse o Google Colaboratory (Colab) através do seu navegador web (https://colab.research.google.com/).
